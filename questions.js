@@ -1,12 +1,5 @@
 questions = [
-    #Equality
-    #Hierarchy
-    #Anuic
-    #Padomaic
-    #Province
-    #Continent
 
-    #Equality
     {
         "question": "It is not acceptable that the royalty can do as they please with their subjects.",
         "effect": {
@@ -115,7 +108,6 @@ questions = [
             "scty": 0
         }
     },
-    #Hierarchy
     {
         "question": "Might makes right.",
         "effect": {
