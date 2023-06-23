@@ -288,7 +288,8 @@ questions = [
         }
     },
     {
-        "question": "The Empire and the Dominion are two sides of the same Pan-Tamriellic coin.": {
+        "question": "The Empire and the Dominion are two sides of the same Pan-Tamriellic coin.": 
+        "effect": {
             "econ": 0,
             "dipl": -10,
             "govt": 0,
