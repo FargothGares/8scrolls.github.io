@@ -1,11 +1,11 @@
 questions = [
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "The White-Gold concordat is a valid treaty.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": -5,
-            "scty": 0
+            "econ": 0,
+            "dipl": 5,
+            "govt": 0,
+            "scty": 5
         }
     },
     {
