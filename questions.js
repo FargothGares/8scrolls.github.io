@@ -172,16 +172,34 @@ questions = [
         }
     },
     {
-        "question": "It is important to maintain our national sovereignty.",
+        "question": "It is regrettable that Cyrodiilic has replaced many native languages.",
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": -5,
+            "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "A united world government would be beneficial to mankind.",
+        "question": "It is important to maintain our province's sovereignty.",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Each province of Tamriel should have the right to govern itself independently, preserving its unique cultural identity and traditions.",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "War does not need to be justified, as the virtue of a unified Tamriel is justified enough..",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -190,43 +208,25 @@ questions = [
         }
     },
     {
-        "question": "It is more important to retain peaceful relations than to further our strength.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Wars do not need to be justified to other countries.",
+        "question": "Resources and wealth generated within a province should primarily benefit the inhabitants of that province rather than being distributed across all of Tamriel.",
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Military spending is a waste of money.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
             "govt": 10,
             "scty": 0
         }
     },
     {
-        "question": "International aid is a waste of money.",
+        "question": "We must grow past the boundaries that are set by provincial borders.",
         "effect": {
-            "econ": -5,
-            "dipl": -10,
+            "econ": 0,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "My nation is great.",
+        "question": "My province is great.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -235,7 +235,7 @@ questions = [
         }
     },
     {
-        "question": "Research should be conducted on an international scale.",
+        "question": "Magical research should be conducted across all of Tamriel.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -244,11 +244,55 @@ questions = [
         }
     },
     {
-        "question": "Governments should be accountable to the international community.",
+        "question": "Mages are untrustworthy and evil, as they value pursuit of knowledge over preservation of culture.",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 5,
+            "scty": 0
+        }
+    },
+    {
+        "question": "A united Tamriel is ideal.",
         "effect": {
             "econ": 0,
             "dipl": 10,
-            "govt": 5,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "We must conquer other provinces in order to liberate their peoples from their own barbaric culture.",
+        "effect": {
+            "econ": 5,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "We should exterminate the population of other provinces to make living space for our race.",
+        "effect": {
+            "econ": -10,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Our religious values should be spread as much as possible.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "The Empire and the Dominion are two sides of the same Pan-Tamriellic coin.": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 0,
             "scty": 0
         }
     },
