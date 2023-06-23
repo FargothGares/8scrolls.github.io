@@ -18,12 +18,12 @@ ideologies = [
         }
     },
     {
-        "name": "Trotskyism",
+        "name": "Thalmor",
         "stats": {
-            "econ": 100,
+            "econ": 10,
             "dipl": 100,
-            "govt": 60,
-            "scty": 80
+            "govt": 80,
+            "scty": 0
         }
     },
     {
