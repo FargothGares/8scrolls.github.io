@@ -1,5 +1,4 @@
 questions = [
-
     {
         "question": "It is not acceptable that the royalty can do as they please with their subjects.",
         "effect": {
@@ -199,7 +198,7 @@ questions = [
         }
     },
     {
-        "question": "War does not need to be justified, as the virtue of a unified Tamriel is justified enough..",
+        "question": "War does not need to be justified, as the virtue of a unified Tamriel is justified enough.",
         "effect": {
             "econ": 0,
             "dipl": 10,
