@@ -1,38 +1,38 @@
 ideologies = [
     {
-        "name": "Anarcho-Communism",
+        "name": "Stormcloaks",
         "stats": {
-            "econ": 100,
-            "dipl": 50,
-            "govt": 100,
-            "scty": 90
+            "econ": 45,
+            "dipl": 20,
+            "govt": 50,
+            "scty": 60
         }
     },
     {
-        "name": "Libertarian Communism",
+        "name": "Third Empire",
         "stats": {
-            "econ": 100,
-            "dipl": 70,
-            "govt": 80,
-            "scty": 80
+            "econ": 65,
+            "dipl": 90,
+            "govt": 40,
+            "scty": 40
         }
     },
     {
         "name": "Thalmor",
         "stats": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 100,
-            "govt": 80,
+            "govt": 0,
             "scty": 0
         }
     },
     {
-        "name": "Marxism",
+        "name": "Mythic Dawn",
         "stats": {
             "econ": 100,
-            "dipl": 70,
-            "govt": 40,
-            "scty": 80
+            "dipl": 100,
+            "govt": 100,
+            "scty": 0
         }
     },
     {
