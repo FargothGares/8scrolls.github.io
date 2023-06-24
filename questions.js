@@ -369,9 +369,36 @@ questions = [
         }
     },
     {
+        "question": "We must break away from unjust and archaic traditions.",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        }
+    },
+    {
         "question": "There are certain social norms that members of society should follow.",
         "effect": {
             "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "A hive-mind consciousness is ideal.",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Unique thought breeds inequality and injustice.",
+        "effect": {
+            "econ": 10,
             "dipl": 0,
             "govt": -10,
             "scty": 0
@@ -423,12 +450,12 @@ questions = [
         }
     },
     {
-        "question": "The Missing God and the Time God were not enemies but allies. The Missing God's death was neccessary to ensure Creation.",
+        "question": "The Daedra are inherently evil.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": -10
         }
     },
     {
@@ -447,6 +474,24 @@ questions = [
             "dipl": 0,
             "govt": 10,
             "scty": 10
+        }
+    },
+    {
+        "question": "We are not indebted to any god, and in fact, we should build our own.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "The Thalmor are plotting to destroy the world",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 5
         }
     },
     {
