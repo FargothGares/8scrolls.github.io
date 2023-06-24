@@ -304,7 +304,7 @@ questions = [
             "govt": -10,
             "scty": 0
         }
-    }
+    },
     {
         "question": "The Levitation Act was justified.",
         "effect": {
