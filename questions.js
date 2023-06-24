@@ -112,7 +112,7 @@ questions = [
         "effect": {
             "econ": -10,
             "dipl": 0,
-            "govt": 0,
+            "govt": 5,
             "scty": 0
         }
     },
@@ -209,9 +209,9 @@ questions = [
     {
         "question": "Resources and wealth generated within a province should primarily benefit the inhabitants of that province rather than being distributed across all of Tamriel.",
         "effect": {
-            "econ": 0,
+            "econ": 5,
             "dipl": -10,
-            "govt": 10,
+            "govt": 0,
             "scty": 0
         }
     },
@@ -239,7 +239,7 @@ questions = [
             "econ": 0,
             "dipl": 10,
             "govt": 0,
-            "scty": 10
+            "scty": 0
         }
     },
     {
@@ -294,6 +294,168 @@ questions = [
             "dipl": -10,
             "govt": 0,
             "scty": 0
+        }
+    },
+    {
+        "question": "There are certain moral rules which should never be broken.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    }
+    {
+        "question": "The Levitation Act was justified.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Taxation is theft.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "I should not have to pay taxes to an illegitimate and immoral Empire.",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Citizens should be allowed to move into the country and throw away previous obligations.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Society works best when men and women conform to traditional gender roles.",
+        "effect": {
+            "econ": -5,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "It is morally outragous to speak against our divine King/Emperor.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -5
+        }
+    },
+            {
+        "question": "Citizens should be permitted to pursue pacts with Daedra Lords.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 10
+        }
+    },
+    {
+        "question": "There are certain social norms that members of society should follow.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "No loving god would willingly and conciously create the material world.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        }
+    },
+    {
+        "question": "The killing of the Missing God (Lorkhan/Shor/Shezarr) was justified.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        }
+    },
+    {
+        "question": "The material world was forged to prevent our divine race from fullfilling their potential.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        }
+    },
+    {
+        "question": "The Time God (Auri-El/Alduin/Akatosh) is the most important and noble of them all.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        }
+    },
+    {
+        "question": "The Missing God and the Time God were not enemies but allies. The Missing God's death was neccessary to ensure Creation.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+    {
+        "question": "The Missing God and the Time God were not enemies but allies. The Missing God's death was neccessary to ensure Creation.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+    {
+        "question": "The Psijic Endeavour is a noble path to follow.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+    {
+        "question": "The rule of the Aedra is illegitimate.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 10
+        }
+    },
+    {
+        "question": "Lorkhan was a Daedric Prince.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
         }
     }
 ];
