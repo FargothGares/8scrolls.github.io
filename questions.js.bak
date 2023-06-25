@@ -693,6 +693,15 @@ questions = [
         }
     },
 	{
+        "question": "Lorkhan was a Daedric Prince.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 20
+        }
+    }
+	{
         "question": "Material conditions are more important than anything else.",
         "effect": {
             "econ": 0,

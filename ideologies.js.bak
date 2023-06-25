@@ -119,10 +119,10 @@ ideologies = [
     {
         "name": "Forces of Order (Jyggalag)",
         "stats": {
-            "econ": 66,
-            "dipl": 80,
+            "econ": 50,
+            "dipl": 100,
             "govt": 0,
-            "scty": 78
+            "scty": 100
         }
     },
 ];
